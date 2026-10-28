@@ -1,6 +1,5 @@
 Hello World
-Hi my name is Grisha <3
-I live in Italy
-I speak English, Russian, Italian
-I Know python, c a little bit and jango
-U can contact with me via discord, telegram, steam, instagram and twitter (u can see my social networks in my bio)
+Country: Italy
+Languages: English, Russian, Italian
+Programming languages: Python, c, c#, html, css
+U can contact me via discord, telegram, steam, instagram and twitter (u can see my social networks in my bio)

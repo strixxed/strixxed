@@ -1,5 +1,5 @@
-Hello World 
-Country: Italy 
-Languages: English, Russian, Italian 
-Programming languages: Python, c, c#, html, css 
-U can contact me via discord, telegram, steam, instagram and twitter (u can see my social networks in my bio)
+Hello World<br>
+Country: Italy<br>
+Languages: English, Russian, Italian<br>
+Programming languages: Python, c, html, css<br>
+U can contact me via discord, telegram, steam, instagram and twitter (u can find my social networks in my bio)
